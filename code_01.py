@@ -18,6 +18,7 @@ add_n=int(myage)+int(year)
 print(add_n)
 print(type(add_n))
 print(type(myname))
+
 print(type(myage))
 
 
